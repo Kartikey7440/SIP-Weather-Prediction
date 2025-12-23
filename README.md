@@ -1,4 +1,4 @@
-# 🌦 Weather Prediction Using Time Series Analysis
+# 🌦 Comparative Analysis of SARIMA, Linear Regression, LSTM and SVR for Weather Prediction
 
 This project focuses on predicting weather conditions using historical time series data. Multiple statistical, machine learning, and deep learning models are implemented and compared to identify the most accurate approach for weather forecasting.
 
