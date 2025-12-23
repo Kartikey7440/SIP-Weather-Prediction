@@ -88,6 +88,33 @@ Models used in this project:
 
 ---
 
+## 📈 Forecasting Results
+
+### SARIMA Forecast
+![SARIMA Prediction](images/SARIMA_test_prediction.png)
+
+![SARIMA Forecast](images/SARIMA_7D_Future_Forecast.png)
+
+### Linear Regression Forecast
+![Linear Regression Result](images/LinearRegession_test_prediction.png)
+
+![Linear Regression Prediction](images/linearRegression_7D_Future_Forecast.png)
+
+
+### SVR Forecast
+![SVR Result](images/SVR_test_prediction.png)
+
+![SVR Prediction](images/SVR_7D_Future_Forecast.png)
+
+### LSTM Forecast
+![LSTM Result](images/LSTM_test_prediction.png)
+
+![LSTM Prediction](images/LSTM_7D_Future_Forecast.png)
+
+
+
+---
+
 ## 📊 Results Summary
 
 | Model             | MAE  | RMSE | R² Score |
